@@ -4,6 +4,6 @@
 Sebuah permainan kartu yaitu cangkul atau minum. sebuah permainan yang mirip dengan bridge tapi tidak sepenuhnya.
 Permainan ini menggunakan kartu asli untuk diinputkan kepada sistem, dengan memanfaatkan machine learning sehingga dapat mendeteksi kartu yang diperlihatkan.
 
-#Link Youtube untuk Demo
+# Link Youtube untuk Demo
 
 https://www.youtube.com/watch?v=vkrHv_9Xmq8
